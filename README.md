@@ -1,3 +1,3 @@
 # scaling-happiness
 
-This is Docs As Code Assessment
+This is Docs As Code assignment
