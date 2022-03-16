@@ -9,4 +9,4 @@ Bengaluru, also spelled Bengalooru, formerly Bangalore, city, capital (since 183
 atop an east-west ridge in the Karnataka Plateau in the southeastern part of the state, at a cultural meeting point of the Kannada-, Telugu-, and Tamil-speaking peoples. Pop. (2001) city, 4,301,326; urban agglom., 
 5,701,446; (2011) city, 8,443,675; urban agglom., 8,520,435.
 
-**[Places to visit in bangalore]**(places to visit in bangalore)
+**[Places to visit in bangalore]**(places to visit in bangalore.md)
