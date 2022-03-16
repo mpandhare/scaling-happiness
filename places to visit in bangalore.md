@@ -8,7 +8,7 @@ There is also a bonsai garden, topiary garden, lotus garden and rose garden insi
 Located 22 km away, the Bannerghatta National Park is a sanctuary for a large variety of flora and fauna. The main attractions here are an aquarium, a zoo, a Children's park, 
 Crocodile Farm, Snake Park and a Prehistoric Animals' Park. It is also popular for hiking and trekking.
 
--  **Bangalore Placae**
+-  **Bangalore Palace**
 
 The majestic Bangalore palace is a royal palace known for its architecture with beautiful carvings both inside and outside. It is owned by the Mysore Royal family.
  The sprawling grounds around the palace is ideal for a picnic.
