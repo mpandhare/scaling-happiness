@@ -1,3 +1,7 @@
+---
+layout: template
+---
+
 -  **Lalbagh**
 
 Lalbagh botanical garden is home to numerous birds and wildlife and has a lake. It is popular for flower shows conducted here during Republic Day and Independence Day week. 
