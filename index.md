@@ -1,3 +1,6 @@
+---
+layout: template
+---
 # scaling-happiness
 
 # Bengaluru
