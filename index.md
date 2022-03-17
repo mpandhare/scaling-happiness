@@ -20,7 +20,7 @@ atop an east-west ridge in the Karnataka Plateau in the southeastern part of the
 # Step 5: Set preferences for receiving notifications #
 
 Complete the following steps to set your preferences for receiving various types of notifications:
-
+fdsgsg
 
 1. To receive notifications about IBM Cloud platform-related, or resource-related items, go to the Avatar icon Avatar icon Profile > Notification preferences.
 
