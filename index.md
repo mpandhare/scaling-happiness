@@ -15,4 +15,5 @@ atop an east-west ridge in the Karnataka Plateau in the southeastern part of the
 
 [**places to visit in bangalore**](places to visit in bangalore.md)
 
-[**setting up your IBM Cloud account**](setting up your IBM Cloud account.md)
+[**setting up IBM account**](setting up IBM account.md)
+
