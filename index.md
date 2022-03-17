@@ -14,3 +14,5 @@ atop an east-west ridge in the Karnataka Plateau in the southeastern part of the
 5,701,446; (2011) city, 8,443,675; urban agglom., 8,520,435.
 
 [**places to visit in bangalore**](places to visit in bangalore.md)
+
+[**setting up your IBM Cloud account**](setting up your IBM Cloud account.md)
