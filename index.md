@@ -35,6 +35,8 @@ fdsgsg
 
 IAM access groups provide a way for you to quickly and easily assign access to multiple resources in your account at one time.
 
+{% include lowercaselisttext.txt %}
+
 1.  Create an access group.
 
      a. Go to **Manage** > **Access (IAM)** > **Access Groups** in the IBM Cloud console.
